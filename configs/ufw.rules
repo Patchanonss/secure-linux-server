@@ -1,0 +1,5 @@
+# Allow SSH
+sudo ufw allow OpenSSH
+# Deny all other incoming traffic
+sudo ufw default deny incoming
+

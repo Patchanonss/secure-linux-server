@@ -1,0 +1,4 @@
+#Example
+2024-12-21 10:00:00,000 fail2ban.actions        [12345]: INFO    Ban 192.168.1.101
+2024-12-21 10:05:00,000 fail2ban.actions        [12345]: INFO    Unban 192.168.1.101
+
